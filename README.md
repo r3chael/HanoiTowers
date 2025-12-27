@@ -1,6 +1,6 @@
 # 🗼 Hanoi Kuleleri (Hanoi Towers)
 
-Hanoi Kuleleri C dili ile yazılımı
+Hanoi Kuleleri C dili ile 
 
 ## 🎮 Oyunun Amacı
 Üç direk ve farklı boyutlarda disklerden oluşan bu oyunda, tüm diskleri 1. direkten 3. direğe belirli kurallara göre taşımaktır.

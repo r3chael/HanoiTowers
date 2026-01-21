@@ -9,8 +9,3 @@ Hanoi Kuleleri C dili ile
 * Her seferinde sadece **bir disk** hareket ettirilebilir.
 * Büyük bir disk, kendisinden daha küçük bir diskin **üzerine konulamaz**.
 * Her hamle, en üstteki diski bir direkten alıp diğerine yerleştirmekten ibarettir.
-
-## Nasıl Çalıştırılır?
-1. Bu projeyi bilgisayarınıza indirin (clone).
-2. Visual Studio ile `.sln` dosyasını açın.
-3. `F5` tuşuna basarak projeyi başlatın.
